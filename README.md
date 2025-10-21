@@ -1,9 +1,9 @@
 
-# 📷 Alvy Website Screenshot
+## 📷 Alvy Website Screenshot
 
 ![Alvy Website Screenshot](assests/images/screenshot.png)
 
-# Alvy Website
+## Alvy Website
 
 🚀 **First Responsive Project!**
 
@@ -31,18 +31,17 @@ A fully **responsive website** built using **HTML, CSS, and SCSS**, with flexibl
 ---
 
 ## 📁 Folder Structure
-\`\`\`
+```
 alvy-website/
 │
 ├─ index.html
 ├─ README.md
 ├─ style.css
 ├─ style.scss
-├─ assests/
+├─ assets/
 │  ├─ images/
-│  │   └─ screenshot.png
 │  └─ fonts/
-\`\`\`
+```
 
 ---
 
