@@ -485,6 +485,8 @@ section.view-7 .text .bottom button {
   background-color: black;
   padding: 1rem;
   letter-spacing: 1px;
+  outline: none;
+  border: none;
 }
 
 @media (min-width: 990px) {
