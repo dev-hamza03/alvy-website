@@ -1,7 +1,7 @@
 
 ## 📷 Alvy Website Screenshot
 
-![Alvy Website Screenshot](assests/images/screenshot.png)
+![Alvy Website Screenshot](assets/images/screenshot.png)
 
 ## Alvy Website
 
